@@ -1,0 +1,95 @@
+﻿body {
+	background: #f5f6f8;
+	
+	
+	
+}
+
+.logotipo {
+    
+	padding: 10px;
+	background: #2c4d71;
+}
+
+
+header {
+	background:  #2c4d71;
+	position: center;
+   
+	margin-bottom:10px;
+	
+
+}
+
+card-body{
+	color: #000000;
+}
+
+
+
+
+a:hover {
+background: rgba(255,255,255,.1);
+
+
+}
+.dropdown-menu{
+
+	background:#FFF;
+	
+}
+
+
+.contenedor-main{
+
+	color: #000000;
+	
+	font-family: arial;
+	
+}
+
+
+	 
+}
+
+main {
+	
+	background: #fff;
+	color: #424242;
+	
+	
+	
+}
+
+aside {
+
+	background: #F1DFDF;
+	color: #0d47a1;
+
+
+	
+	
+}
+
+.widgets {
+border-color: #C0C0C0;
+
+
+	
+}
+
+.widgets > div {
+	background: #c0c0c0;
+	color: #000;
+	border: #C0C0C0;
+}
+
+footer {
+	padding: 10px 10px;
+	background: #161616;
+	text-align: center; 
+	color: #fff;
+	font-size-adjust: 12p;
+}
+
+
